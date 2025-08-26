@@ -354,7 +354,6 @@ Developed for educational and research purposes
 ### Project Team
 - **Developer**: Horizon HNK
 - **Contact**: hhnk3693@gmail.com
-- **YouTube Channel**: [BrainWave Builder Playlist](https://youtube.com/playlist?list=PLrZbkNpNVSwxuqHK3IhWQKSGKpH5AcTF0&si=AL42sWOl8hUV5BJ7)
 
 ### Special Thanks
 - Local electronics suppliers for component sourcing
@@ -367,7 +366,6 @@ Developed for educational and research purposes
 ### Project Maintainer
 **Horizon HNK**  
 Email: hhnk3693@gmail.com  
-YouTube: [BrainWave Builder Playlist](https://youtube.com/playlist?list=PLrZbkNpNVSwxuqHK3IhWQKSGKpH5AcTF0&si=AL42sWOl8hUV5BJ7)
 
 For technical questions or collaboration opportunities, please reach out via email.
 
