@@ -382,8 +382,7 @@ If you use this project in your research or educational work, please cite:
   title={AI-Powered Brainwave Analysis System using ESP32 Microcontrollers},
   author={Horizon HNK},
   year={2025},
-  type={Open Source Educational Project},
-  url={https://youtube.com/playlist?list=PLrZbkNpNVSwxuqHK3IhWQKSGKpH5AcTF0}
+  type={Open Source Educational Project}
 }
 ```
 
