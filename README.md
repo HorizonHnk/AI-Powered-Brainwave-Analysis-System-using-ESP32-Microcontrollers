@@ -133,7 +133,7 @@ import threading
 
 ```bash
 # Clone the repository
-git clone https://github.com/kibamba-GM/ai-eeg-esp32.git
+git clone https://github.com/horizon-hnk/ai-eeg-esp32.git
 cd ai-eeg-esp32
 ```
 
@@ -332,7 +332,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2025 Horizon Hnk
+Copyright (c) 2025 Horizon HNK
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -344,11 +345,52 @@ The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 ```
 
+## Acknowledgments
+
+### Academic Institution
+**Open Source Educational Project**  
+Developed for educational and research purposes
+
+### Project Team
+- **Developer**: Horizon HNK
+- **Contact**: hhnk3693@gmail.com
+- **YouTube Channel**: [BrainWave Builder Playlist](https://youtube.com/playlist?list=PLrZbkNpNVSwxuqHK3IhWQKSGKpH5AcTF0&si=AL42sWOl8hUV5BJ7)
+
+### Special Thanks
+- Local electronics suppliers for component sourcing
+- Community laboratory facilities for testing environment
+- Open-source community for software libraries and frameworks
+- Research community for foundational EEG processing knowledge
+
+## Contact
+
+### Project Maintainer
+**Horizon HNK**  
+Email: hhnk3693@gmail.com  
+YouTube: [BrainWave Builder Playlist](https://youtube.com/playlist?list=PLrZbkNpNVSwxuqHK3IhWQKSGKpH5AcTF0&si=AL42sWOl8hUV5BJ7)
+
+For technical questions or collaboration opportunities, please reach out via email.
+
+---
+
+### Citation
+
+If you use this project in your research or educational work, please cite:
+
+```bibtex
+@misc{horizonhnk2025eeg,
+  title={AI-Powered Brainwave Analysis System using ESP32 Microcontrollers},
+  author={Horizon HNK},
+  year={2025},
+  type={Open Source Educational Project},
+  url={https://youtube.com/playlist?list=PLrZbkNpNVSwxuqHK3IhWQKSGKpH5AcTF0}
+}
+```
 
 ### Project Status
 
 🟢 **Active Development** - This project is actively maintained and welcomes contributions.
 
-**Last Updated**: August 2025  
+**Last Updated**: January 2025  
 **Version**: 1.0.0  
 **Status**: Complete and Functional
